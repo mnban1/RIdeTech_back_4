@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Laravel
+/vendor/
+/node_modules/
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/.phpunit.cache
+/.phpunit.result.cache
+.env
+.env.backup
+.env.production
+.phpactor.json
+auth.json
+npm-debug.log
+yarn-error.log
